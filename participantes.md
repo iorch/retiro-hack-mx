@@ -20,7 +20,7 @@
 - Marco Velázquez (@marco7vr: [twitter](https://twitter.com/Marco7vr))
 - Yosune Chamizo Alberro (@_yosune: [twitter](https://twitter.com/_Yosune), [github](http://github.com/yosune50))
 - Israel Zúñiga
-- Jorge Martínez
+- Jorge Martínez Ortega (@iork: [twitter]()https://twitter.com/iork, @iorch: [github](https://github.com/iorch))
 - Juan José del Toro
 - Hans Ramírez
 - Carlos Hugo Gonzalez Castell (@caarloshugo: [twitter](http://twitter.com/caarloshugo), [github](http://github.com/caarloshugo))
